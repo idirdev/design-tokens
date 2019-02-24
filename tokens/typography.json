@@ -1,0 +1,29 @@
+{
+  "fontFamily": {
+    "sans":  { "value": "'Inter', -apple-system, BlinkMacSystemFont, sans-serif", "type": "typography", "description": "Default sans-serif stack" },
+    "mono":  { "value": "'JetBrains Mono', 'Fira Code', monospace", "type": "typography", "description": "Monospace stack for code" },
+    "serif": { "value": "'Merriweather', Georgia, serif", "type": "typography", "description": "Serif stack for long-form reading" }
+  },
+  "fontSize": {
+    "xs":   { "value": "0.75rem",  "type": "typography", "description": "12px - Extra small text" },
+    "sm":   { "value": "0.875rem", "type": "typography", "description": "14px - Small text" },
+    "base": { "value": "1rem",     "type": "typography", "description": "16px - Body text" },
+    "lg":   { "value": "1.125rem", "type": "typography", "description": "18px - Large text" },
+    "xl":   { "value": "1.25rem",  "type": "typography", "description": "20px - Extra large" },
+    "2xl":  { "value": "1.5rem",   "type": "typography", "description": "24px - Heading 3" },
+    "3xl":  { "value": "1.875rem", "type": "typography", "description": "30px - Heading 2" },
+    "4xl":  { "value": "2.25rem",  "type": "typography", "description": "36px - Heading 1" }
+  },
+  "fontWeight": {
+    "light":    { "value": 300, "type": "typography", "description": "Light weight" },
+    "normal":   { "value": 400, "type": "typography", "description": "Normal weight" },
+    "medium":   { "value": 500, "type": "typography", "description": "Medium weight" },
+    "semibold": { "value": 600, "type": "typography", "description": "Semibold weight" },
+    "bold":     { "value": 700, "type": "typography", "description": "Bold weight" }
+  },
+  "lineHeight": {
+    "tight":   { "value": 1.25, "type": "typography", "description": "Tight line height for headings" },
+    "normal":  { "value": 1.5,  "type": "typography", "description": "Normal line height for body" },
+    "relaxed": { "value": 1.75, "type": "typography", "description": "Relaxed line height for readability" }
+  }
+}

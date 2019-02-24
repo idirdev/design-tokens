@@ -1,0 +1,16 @@
+{
+  "spacing": {
+    "0":  { "value": 0,  "type": "spacing", "description": "No spacing" },
+    "1":  { "value": 1,  "type": "spacing", "description": "1px spacing" },
+    "2":  { "value": 2,  "type": "spacing", "description": "2px spacing" },
+    "4":  { "value": 4,  "type": "spacing", "description": "4px - extra small" },
+    "6":  { "value": 6,  "type": "spacing", "description": "6px - small minus" },
+    "8":  { "value": 8,  "type": "spacing", "description": "8px - small" },
+    "12": { "value": 12, "type": "spacing", "description": "12px - medium small" },
+    "16": { "value": 16, "type": "spacing", "description": "16px - medium" },
+    "24": { "value": 24, "type": "spacing", "description": "24px - medium large" },
+    "32": { "value": 32, "type": "spacing", "description": "32px - large" },
+    "48": { "value": 48, "type": "spacing", "description": "48px - extra large" },
+    "64": { "value": 64, "type": "spacing", "description": "64px - 2x large" }
+  }
+}

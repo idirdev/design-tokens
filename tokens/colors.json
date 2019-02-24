@@ -1,0 +1,33 @@
+{
+  "primary": {
+    "50":  { "value": "#EEF2FF", "type": "color", "description": "Primary lightest" },
+    "100": { "value": "#E0E7FF", "type": "color", "description": "Primary extra light" },
+    "200": { "value": "#C7D2FE", "type": "color", "description": "Primary light" },
+    "300": { "value": "#A5B4FC", "type": "color", "description": "Primary medium light" },
+    "400": { "value": "#818CF8", "type": "color", "description": "Primary medium" },
+    "500": { "value": "#6366F1", "type": "color", "description": "Primary base" },
+    "600": { "value": "#4F46E5", "type": "color", "description": "Primary medium dark" },
+    "700": { "value": "#4338CA", "type": "color", "description": "Primary dark" },
+    "800": { "value": "#3730A3", "type": "color", "description": "Primary extra dark" },
+    "900": { "value": "#312E81", "type": "color", "description": "Primary darkest" }
+  },
+  "secondary": {
+    "50":  { "value": "#ECFDF5", "type": "color", "description": "Secondary lightest" },
+    "500": { "value": "#10B981", "type": "color", "description": "Secondary base" },
+    "900": { "value": "#064E3B", "type": "color", "description": "Secondary darkest" }
+  },
+  "neutral": {
+    "0":   { "value": "#FFFFFF", "type": "color", "description": "White" },
+    "50":  { "value": "#F9FAFB", "type": "color", "description": "Neutral lightest" },
+    "100": { "value": "#F3F4F6", "type": "color", "description": "Neutral extra light" },
+    "500": { "value": "#6B7280", "type": "color", "description": "Neutral base" },
+    "900": { "value": "#111827", "type": "color", "description": "Neutral darkest" },
+    "1000": { "value": "#000000", "type": "color", "description": "Black" }
+  },
+  "semantic": {
+    "success": { "value": "#22C55E", "type": "color", "description": "Success state" },
+    "warning": { "value": "#F59E0B", "type": "color", "description": "Warning state" },
+    "error":   { "value": "#EF4444", "type": "color", "description": "Error state" },
+    "info":    { "value": "#3B82F6", "type": "color", "description": "Info state" }
+  }
+}
