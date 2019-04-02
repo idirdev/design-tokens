@@ -174,3 +174,28 @@ design-tokens docs -i ./tokens -o tokens.md
 ## License
 
 MIT
+
+---
+
+## Français
+
+**design-tokens** est un gestionnaire de tokens de design qui analyse, transforme, valide et documente les tokens à travers plusieurs plateformes. Il prend en charge les fichiers JSON et YAML, résout les références entre tokens, et génère des sorties pour 7 plateformes cibles : CSS, SCSS, JS/TS, Tailwind, iOS Swift, Android XML et JSON plat.
+
+### Installation
+
+```bash
+npm install -g design-tokens
+```
+
+### Utilisation
+
+```bash
+# Générer les tokens pour CSS et SCSS
+design-tokens build -i ./tokens -o ./output -p css scss
+
+# Valider les tokens avec le mode strict
+design-tokens validate -i ./tokens --strict
+
+# Générer la documentation
+design-tokens docs -i ./tokens -o tokens.md
+```
